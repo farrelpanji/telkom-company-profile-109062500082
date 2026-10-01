@@ -23,23 +23,24 @@ require 'includes/header.php';
 <section class="section section-soft">
     <div class="container">
         <div class="section-heading">
-            <span class="eyebrow">Fokus Pembelajaran</span>
+            <span class="eyebrow">Fokus Perkuliahan</span>
             <h2>Apa yang akan kamu pelajari?</h2>
         </div>
         <div class="grid-3">
             <article class="card">
-                <h3>Web Development</h3>
-                <p>Membangun aplikasi web dinamis menggunakan PHP native dan MySQL.</p>
+                <h3>UKM Futsal</h3>
+                <p>Membangun tim futsal yang solid dan kompetitif.</p>
             </article>
             <article class="card">
-                <h3>Version Control</h3>
-                <p>Mengelola riwayat kode dan kolaborasi tim menggunakan Git dan GitHub.</p>
+                <h3>self Improvment</h3>
+                <p>Mengembangkan diri secara pribadi dan profesional.</p>
             </article>
             <article class="card">
-                <h3>UI/UX Dasar</h3>
-                <p>Merancang antarmuka yang rapi, responsif, dan mudah digunakan oleh pengguna.</p>
+                <h3>Supply Chain Management</h3>
+                <p>Merancang sistem distribusi yang efisien dan efektif.</p>
             </article>
         </div>
     </div>
 </section>
+
 <?php require 'includes/footer.php'; ?>
